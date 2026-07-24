@@ -1324,28 +1324,6 @@
           }
         },
         {
-          "id": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
-          "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
-          "type": "File",
-          "artifact": {
-            "size": 191578,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
-            "MD5": "5182efbf1b9301715532c7e4aabe19bd",
-            "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
-          }
-        },
-        {
-          "id": "mymusic.zip",
-          "name": "mymusic.zip",
-          "type": "File",
-          "artifact": {
-            "size": 669082,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/mymusic.zip",
-            "MD5": "f54cb716cfdfe3afc02af64ce893dc9f",
-            "path": "resourcepacks/mymusic.zip"
-          }
-        },
-        {
           "id": "new font.zip",
           "name": "new font.zip",
           "type": "File",
@@ -1354,17 +1332,6 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/new%20font.zip",
             "MD5": "2e2820a95d352c3fb0b75ed1f8232787",
             "path": "resourcepacks/new font.zip"
-          }
-        },
-        {
-          "id": "Stay Clear V1.1 [1.20.1].zip",
-          "name": "Stay Clear V1.1 [1.20.1].zip",
-          "type": "File",
-          "artifact": {
-            "size": 347615,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/Stay%20Clear%20V1.1%20[1.20.1].zip",
-            "MD5": "cc0de90c73a69af44e416eb99537ad88",
-            "path": "resourcepacks/Stay Clear V1.1 [1.20.1].zip"
           }
         },
         {
