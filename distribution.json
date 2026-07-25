@@ -554,6 +554,17 @@
           }
         },
         {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/oculus.properties",
+            "MD5": "6558ca57cece56120ce0964d216ce66b",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
           "id": "occlusion.properties",
           "name": "occlusion.properties",
           "type": "File",
@@ -1317,9 +1328,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7494,
+            "size": 7479,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/options.txt",
-            "MD5": "1825ae33d1f756b4f309918ae43fb2c6",
+            "MD5": "02548a1203448b6209ce72c788e2b076",
             "path": "options.txt"
           }
         },
