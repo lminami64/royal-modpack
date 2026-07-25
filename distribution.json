@@ -1324,14 +1324,14 @@
           }
         },
         {
-          "id": "new_font.zip",
-          "name": "new_font.zip",
+          "id": "font.zip",
+          "name": "font.zip",
           "type": "File",
           "artifact": {
-            "size": 391324,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/new_font.zip",
-            "MD5": "5eee64d91575d054560ec3c6b7073cf5",
-            "path": "resourcepacks/new_font.zip"
+            "size": 391067,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/font.zip",
+            "MD5": "ff7887f0eedbcf6c656583f334038dbf",
+            "path": "resourcepacks/font.zip"
           }
         },
         {
