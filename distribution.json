@@ -1328,9 +1328,9 @@
           "name": "new_font.zip",
           "type": "File",
           "artifact": {
-            "size": 860866,
+            "size": 391324,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/new_font.zip",
-            "MD5": "2e2820a95d352c3fb0b75ed1f8232787",
+            "MD5": "5eee64d91575d054560ec3c6b7073cf5",
             "path": "resourcepacks/new_font.zip"
           }
         },
