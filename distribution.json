@@ -1335,14 +1335,14 @@
           }
         },
         {
-          "id": "font.zip",
-          "name": "font.zip",
+          "id": "ofnt.zip",
+          "name": "ofnt.zip",
           "type": "File",
           "artifact": {
-            "size": 391067,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/font.zip",
-            "MD5": "ff7887f0eedbcf6c656583f334038dbf",
-            "path": "resourcepacks/font.zip"
+            "size": 404248,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/ofnt.zip",
+            "MD5": "2f9e8dab0c3c4ea3ca1b3c061722c97e",
+            "path": "resourcepacks/ofnt.zip"
           }
         },
         {
