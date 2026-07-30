@@ -657,9 +657,9 @@
           "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 5127,
+            "size": 5126,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "43200aead8d8854f9091aa04436ad641",
+            "MD5": "e58e0c3c5253beaa7a8b448472c74b82",
             "path": "config/voicechat/voicechat-client.properties"
           }
         },
@@ -1335,6 +1335,39 @@
           }
         },
         {
+          "id": "font.zip",
+          "name": "font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 391067,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/font.zip",
+            "MD5": "ff7887f0eedbcf6c656583f334038dbf",
+            "path": "resourcepacks/font.zip"
+          }
+        },
+        {
+          "id": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "name": "Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+          "type": "File",
+          "artifact": {
+            "size": 191578,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip",
+            "MD5": "5182efbf1b9301715532c7e4aabe19bd",
+            "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"
+          }
+        },
+        {
+          "id": "mymusic.zip",
+          "name": "mymusic.zip",
+          "type": "File",
+          "artifact": {
+            "size": 669082,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/mymusic.zip",
+            "MD5": "f54cb716cfdfe3afc02af64ce893dc9f",
+            "path": "resourcepacks/mymusic.zip"
+          }
+        },
+        {
           "id": "new font.zip",
           "name": "new font.zip",
           "type": "File",
@@ -1346,6 +1379,17 @@
           }
         },
         {
+          "id": "new_font.zip",
+          "name": "new_font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 391324,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/new_font.zip",
+            "MD5": "5eee64d91575d054560ec3c6b7073cf5",
+            "path": "resourcepacks/new_font.zip"
+          }
+        },
+        {
           "id": "ofnt.zip",
           "name": "ofnt.zip",
           "type": "File",
@@ -1354,6 +1398,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/ofnt.zip",
             "MD5": "2f9e8dab0c3c4ea3ca1b3c061722c97e",
             "path": "resourcepacks/ofnt.zip"
+          }
+        },
+        {
+          "id": "Stay Clear V1.1 [1.20.1].zip",
+          "name": "Stay Clear V1.1 [1.20.1].zip",
+          "type": "File",
+          "artifact": {
+            "size": 347615,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/Stay%20Clear%20V1.1%20[1.20.1].zip",
+            "MD5": "cc0de90c73a69af44e416eb99537ad88",
+            "path": "resourcepacks/Stay Clear V1.1 [1.20.1].zip"
           }
         },
         {
@@ -1376,6 +1431,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/tconjeidark.zip",
             "MD5": "1a93c2eab12be9d22a86f3c22d5a6eaa",
             "path": "resourcepacks/tconjeidark.zip"
+          }
+        },
+        {
+          "id": "폰트2.zip",
+          "name": "폰트2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 404248,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/%ED%8F%B0%ED%8A%B82.zip",
+            "MD5": "945f040432596b957dd69441e008de6c",
+            "path": "resourcepacks/폰트2.zip"
           }
         },
         {
