@@ -1335,6 +1335,17 @@
           }
         },
         {
+          "id": "new font.zip",
+          "name": "new font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 860866,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/new%20font.zip",
+            "MD5": "2e2820a95d352c3fb0b75ed1f8232787",
+            "path": "resourcepacks/new font.zip"
+          }
+        },
+        {
           "id": "ofnt.zip",
           "name": "ofnt.zip",
           "type": "File",
@@ -1354,6 +1365,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/Stay_True_1.20.zip",
             "MD5": "2d0227cf97a1adfd638bd5a1415c150e",
             "path": "resourcepacks/Stay_True_1.20.zip"
+          }
+        },
+        {
+          "id": "tconjeidark.zip",
+          "name": "tconjeidark.zip",
+          "type": "File",
+          "artifact": {
+            "size": 897,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/tconjeidark.zip",
+            "MD5": "1a93c2eab12be9d22a86f3c22d5a6eaa",
+            "path": "resourcepacks/tconjeidark.zip"
           }
         },
         {
