@@ -1328,9 +1328,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7482,
+            "size": 7502,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/options.txt",
-            "MD5": "942c985767559d4c21a99d572d244f68",
+            "MD5": "64578f76befcd6b7ef8916252e106ff2",
             "path": "options.txt"
           }
         },
@@ -1398,6 +1398,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/ofnt.zip",
             "MD5": "2f9e8dab0c3c4ea3ca1b3c061722c97e",
             "path": "resourcepacks/ofnt.zip"
+          }
+        },
+        {
+          "id": "soundBGM.zip",
+          "name": "soundBGM.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11546229,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/soundBGM.zip",
+            "MD5": "5d7fcd7d3fbb51c5ae63c0160e0d5f27",
+            "path": "resourcepacks/soundBGM.zip"
           }
         },
         {
