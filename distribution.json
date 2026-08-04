@@ -1341,7 +1341,7 @@
           "artifact": {
             "size": 12098586,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/BGM.zip",
-            "MD5": "f05bd5dc67743ccd612a3474ccc1630c",
+            "MD5": "2594a4378dfc07a60629e30668f57bb4",
             "path": "resourcepacks/BGM.zip"
           }
         },
@@ -1475,6 +1475,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/%ED%8F%B0%ED%8A%B82.zip",
             "MD5": "945f040432596b957dd69441e008de6c",
             "path": "resourcepacks/폰트2.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 30455,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/servers.dat",
+            "MD5": "0cdb3e8893ac057d0e9f19f2792ef073",
+            "path": "servers.dat"
           }
         },
         {
