@@ -818,17 +818,6 @@
           }
         },
         {
-          "id": "cpm-svc-compat-1.3.1.jar",
-          "name": "cpm-svc-compat-1.3.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 27261,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/cpm-svc-compat-1.3.1.jar",
-            "MD5": "29dfb50e8c78602194a1fea1192ae400",
-            "path": "mods/cpm-svc-compat-1.3.1.jar"
-          }
-        },
-        {
           "id": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
           "name": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
           "type": "File",
@@ -1181,6 +1170,17 @@
           }
         },
         {
+          "id": "plasmovoice-forge-1.20.1-2.1.13.jar",
+          "name": "plasmovoice-forge-1.20.1-2.1.13.jar",
+          "type": "File",
+          "artifact": {
+            "size": 12299890,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/plasmovoice-forge-1.20.1-2.1.13.jar",
+            "MD5": "a6bdcf083251c30f9f745ff96f2183b1",
+            "path": "mods/plasmovoice-forge-1.20.1-2.1.13.jar"
+          }
+        },
+        {
           "id": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
           "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
           "type": "File",
@@ -1291,6 +1291,17 @@
           }
         },
         {
+          "id": "talking-heads-1.1.3+1.20.1+forge.jar",
+          "name": "talking-heads-1.1.3+1.20.1+forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 470716,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/talking-heads-1.1.3+1.20.1+forge.jar",
+            "MD5": "d7909522d91940ca5a44941a8d95c2ba",
+            "path": "mods/talking-heads-1.1.3+1.20.1+forge.jar"
+          }
+        },
+        {
           "id": "traditional_korean_food_mod-1.0.0-forge-1.20.1.jar",
           "name": "traditional_korean_food_mod-1.0.0-forge-1.20.1.jar",
           "type": "File",
@@ -1299,28 +1310,6 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/traditional_korean_food_mod-1.0.0-forge-1.20.1.jar",
             "MD5": "1357f5d8e0a16c3edecf652338d0e794",
             "path": "mods/traditional_korean_food_mod-1.0.0-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "voicechat-forge-1.20.1-2.6.11.jar",
-          "name": "voicechat-forge-1.20.1-2.6.11.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4892131,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/voicechat-forge-1.20.1-2.6.11.jar",
-            "MD5": "b3192730c7e28ceeeafc0521c79e7eca",
-            "path": "mods/voicechat-forge-1.20.1-2.6.11.jar"
-          }
-        },
-        {
-          "id": "voicechat-forge-1.20.1-2.6.20.jar",
-          "name": "voicechat-forge-1.20.1-2.6.20.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4911858,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/voicechat-forge-1.20.1-2.6.20.jar",
-            "MD5": "2d12e71b04e00935822743dedaf2e5d4",
-            "path": "mods/voicechat-forge-1.20.1-2.6.20.jar"
           }
         },
         {
