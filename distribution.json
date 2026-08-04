@@ -1038,6 +1038,17 @@
           }
         },
         {
+          "id": "LuckPerms-Forge-5.4.102.jar",
+          "name": "LuckPerms-Forge-5.4.102.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1398478,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/mods/LuckPerms-Forge-5.4.102.jar",
+            "MD5": "1f1d23fbf1b5ab2a1b28054a278cfa19",
+            "path": "mods/LuckPerms-Forge-5.4.102.jar"
+          }
+        },
+        {
           "id": "mcw-doors-1.1.5-mc1.20.1forge.jar",
           "name": "mcw-doors-1.1.5-mc1.20.1forge.jar",
           "type": "File",
@@ -1328,10 +1339,32 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7502,
+            "size": 7529,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/options.txt",
-            "MD5": "64578f76befcd6b7ef8916252e106ff2",
+            "MD5": "95571f67f4059d30f7924089c679dff8",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "BGM.zip",
+          "name": "BGM.zip",
+          "type": "File",
+          "artifact": {
+            "size": 12098586,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/BGM.zip",
+            "MD5": "f05bd5dc67743ccd612a3474ccc1630c",
+            "path": "resourcepacks/BGM.zip"
+          }
+        },
+        {
+          "id": "emm2.zip",
+          "name": "emm2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3073358,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/resourcepacks/emm2.zip",
+            "MD5": "2cd4ddb6fc8c0303fcae2aa21936c6af",
+            "path": "resourcepacks/emm2.zip"
           }
         },
         {
