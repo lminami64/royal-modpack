@@ -1482,9 +1482,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 30455,
+            "size": 21055,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/servers.dat",
-            "MD5": "0cdb3e8893ac057d0e9f19f2792ef073",
+            "MD5": "c970cd3e968daa6086ef279432c5cd34",
             "path": "servers.dat"
           }
         },
