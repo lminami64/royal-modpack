@@ -565,17 +565,6 @@
           }
         },
         {
-          "id": "client.toml",
-          "name": "client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1246,
-            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/client.toml",
-            "MD5": "e0bb66e728dacc02bbaf69059b280ad9",
-            "path": "config/plasmovoice/client.toml"
-          }
-        },
-        {
           "id": "occlusion.properties",
           "name": "occlusion.properties",
           "type": "File",
