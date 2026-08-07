@@ -1328,9 +1328,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7222,
+            "size": 7226,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/options.txt",
-            "MD5": "5dcebf53d98e2f9255143e815c3b7b6e",
+            "MD5": "46680e516bb5de6ed0e76fa8cd34de42",
             "path": "options.txt"
           }
         },
