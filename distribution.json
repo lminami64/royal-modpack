@@ -565,6 +565,204 @@
           }
         },
         {
+          "id": "de_de.json",
+          "name": "de_de.json",
+          "type": "File",
+          "artifact": {
+            "size": 8510,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/de_de.json",
+            "MD5": "cb8838ceada0cc1ac72d33c3359eb883",
+            "path": "config/plasmovoice/.crowdin/de_de.json"
+          }
+        },
+        {
+          "id": "es_es.json",
+          "name": "es_es.json",
+          "type": "File",
+          "artifact": {
+            "size": 9115,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/es_es.json",
+            "MD5": "ebe33e9b2d8f8f2d4519edb2e4394e40",
+            "path": "config/plasmovoice/.crowdin/es_es.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9154,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/fr_fr.json",
+            "MD5": "f3a517b45d6920f327020408fd9751fd",
+            "path": "config/plasmovoice/.crowdin/fr_fr.json"
+          }
+        },
+        {
+          "id": "he_il.json",
+          "name": "he_il.json",
+          "type": "File",
+          "artifact": {
+            "size": 9290,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/he_il.json",
+            "MD5": "2f2e21189a6f11d39a33b7b66a111b5c",
+            "path": "config/plasmovoice/.crowdin/he_il.json"
+          }
+        },
+        {
+          "id": "ja_jp.json",
+          "name": "ja_jp.json",
+          "type": "File",
+          "artifact": {
+            "size": 9467,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/ja_jp.json",
+            "MD5": "5ccf0895426e7fca281ca28d13dccc31",
+            "path": "config/plasmovoice/.crowdin/ja_jp.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9208,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/ko_kr.json",
+            "MD5": "ab87eb710206cd3eef9e1ba03f88bd57",
+            "path": "config/plasmovoice/.crowdin/ko_kr.json"
+          }
+        },
+        {
+          "id": "pl_pl.json",
+          "name": "pl_pl.json",
+          "type": "File",
+          "artifact": {
+            "size": 8890,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/pl_pl.json",
+            "MD5": "6a09569fa006d3f01bc00333838df100",
+            "path": "config/plasmovoice/.crowdin/pl_pl.json"
+          }
+        },
+        {
+          "id": "pt_br.json",
+          "name": "pt_br.json",
+          "type": "File",
+          "artifact": {
+            "size": 9046,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/pt_br.json",
+            "MD5": "97bd0d3f6c281f960cf448c4346563fc",
+            "path": "config/plasmovoice/.crowdin/pt_br.json"
+          }
+        },
+        {
+          "id": "ru_ru.json",
+          "name": "ru_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11446,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/ru_ru.json",
+            "MD5": "9c3a8c7dc0eb3a6640847988b139fb00",
+            "path": "config/plasmovoice/.crowdin/ru_ru.json"
+          }
+        },
+        {
+          "id": "timestamp",
+          "name": "timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/timestamp",
+            "MD5": "bd438fb7438bc9f2db33c9ba18f6a259",
+            "path": "config/plasmovoice/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "tr_tr.json",
+          "name": "tr_tr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1545,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/tr_tr.json",
+            "MD5": "9eb2a3be47503ed7b7065e4c3f2413bc",
+            "path": "config/plasmovoice/.crowdin/tr_tr.json"
+          }
+        },
+        {
+          "id": "tt_ru.json",
+          "name": "tt_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11312,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/tt_ru.json",
+            "MD5": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
+            "path": "config/plasmovoice/.crowdin/tt_ru.json"
+          }
+        },
+        {
+          "id": "uk_ua.json",
+          "name": "uk_ua.json",
+          "type": "File",
+          "artifact": {
+            "size": 10828,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/uk_ua.json",
+            "MD5": "a68060377351fcfdbf5c0af87330e6c7",
+            "path": "config/plasmovoice/.crowdin/uk_ua.json"
+          }
+        },
+        {
+          "id": "vi_vn.json",
+          "name": "vi_vn.json",
+          "type": "File",
+          "artifact": {
+            "size": 10102,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/vi_vn.json",
+            "MD5": "0458e0a83010b7648fec3488e7dd2341",
+            "path": "config/plasmovoice/.crowdin/vi_vn.json"
+          }
+        },
+        {
+          "id": "zh_cn.json",
+          "name": "zh_cn.json",
+          "type": "File",
+          "artifact": {
+            "size": 8123,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/zh_cn.json",
+            "MD5": "6a385d12b888457adee2b62acc8e9aa6",
+            "path": "config/plasmovoice/.crowdin/zh_cn.json"
+          }
+        },
+        {
+          "id": "zh_tw.json",
+          "name": "zh_tw.json",
+          "type": "File",
+          "artifact": {
+            "size": 8119,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/.crowdin/zh_tw.json",
+            "MD5": "5afb2f116f79813891221626cbdeb096",
+            "path": "config/plasmovoice/.crowdin/zh_tw.json"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1246,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/client.toml",
+            "MD5": "e0bb66e728dacc02bbaf69059b280ad9",
+            "path": "config/plasmovoice/client.toml"
+          }
+        },
+        {
+          "id": "meta_cache.json",
+          "name": "meta_cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 655,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/config/plasmovoice/meta_cache.json",
+            "MD5": "5af0e10eeff3bb8e259d2f8363fb1444",
+            "path": "config/plasmovoice/meta_cache.json"
+          }
+        },
+        {
           "id": "occlusion.properties",
           "name": "occlusion.properties",
           "type": "File",
@@ -1328,9 +1526,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7529,
+            "size": 7227,
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/options.txt",
-            "MD5": "95571f67f4059d30f7924089c679dff8",
+            "MD5": "2821e93df8ce8b4ec6c8e753514f86d5",
             "path": "options.txt"
           }
         },
@@ -1486,6 +1684,17 @@
             "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/servers.dat",
             "MD5": "c970cd3e968daa6086ef279432c5cd34",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 21055,
+            "url": "https://lminami64.github.io/royal-modpack/servers/royal-1.20.1/files/servers.dat_old",
+            "MD5": "c970cd3e968daa6086ef279432c5cd34",
+            "path": "servers.dat_old"
           }
         },
         {
